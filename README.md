@@ -19,7 +19,7 @@ Momentum
 Adam
 Backpropagation: Detailed implementations and explanations of backpropagation algorithms.
 
-## Features
+## Main Concepts
 Comprehensive examples of machine learning concepts. <br>
 Implementations of various loss functions. <br>
 Demonstrations of different optimization techniques. <br>
